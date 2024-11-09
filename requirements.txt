@@ -1,0 +1,8 @@
+apscheduler
+google-api-python-client
+pydantic
+pygsheets
+pyrogram
+python-dotenv
+sqlalchemy
+tgcrypto

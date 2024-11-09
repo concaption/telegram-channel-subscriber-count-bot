@@ -1,0 +1,14 @@
+# directories
+.idea/
+.data/
+tests/
+venv/
+**/__pycache__/
+
+
+# files
+*.env
+*.db
+*.json
+*.log
+*.zip
